@@ -52,7 +52,7 @@ This prototype provides an automated closed-loop solution:
   - **Blynk 2.0 Cloud Ready:** Native support for template IDs and cloud credentials.
 - **Remote Mobile Dashboard:** Real-time percentage gauge visualization (`V0`) and manual pump toggle override switch (`V1`).
 - **Electrical Safety & Isolation:** Separated power domains between low-voltage 3.3V/5V logic and inductive motor current, preventing microcontroller resets, brownouts, and back-EMF voltage spikes.
-- **Live Project Web Portal:** Interactive project showcase hosted at [https://iotproject-nit.vercel.app](https://iotproject-nit.vercel.app).
+
 
 ---
 
